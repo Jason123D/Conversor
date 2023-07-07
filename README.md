@@ -19,3 +19,9 @@ private double DeLibraesterlinaaDolar() {
 	    return  dinero*1.26903;
 	  }
 ```
+```
+git status
+git add .
+git commit -m"Se agragan mas "
+git push -u origin main
+```
