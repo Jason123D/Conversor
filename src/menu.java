@@ -6,7 +6,7 @@ public class Menu {
 	
 	public static void main(String[] args) {
 		Moneda monedita =new Moneda();
-		 Object[] escoger = { "Conversor de Moneda", "Temperatura", "Cerrar"};
+		 Object[] escoger = { "Conversor de Moneda", "Cerrar"};
 
 		 Object valor = JOptionPane.showInputDialog(null,
 		             "Seleccione", "Conversor",
@@ -44,12 +44,6 @@ public class Menu {
 		
 
 		}
-			
-	
-	}else if(valor=="Temperatura") {
-		
-		JOptionPane.showMessageDialog(null, "Entro al Conversor de Temperatura", "Conversor", JOptionPane.ERROR_MESSAGE);
-		
 	}else if(valor =="Cerrar") {
 		System.exit(0);
 	}
