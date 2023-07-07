@@ -9,7 +9,7 @@
 - Uso de la POO.
 - **Entre otras cosas mas.**
 
-#### ##### ## Algunos comandos en accion.
+#### ##### ## Algunos comandos en Accion.
 
 ------------
 
