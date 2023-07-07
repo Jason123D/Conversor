@@ -5,7 +5,8 @@
 
 - Como crear el repositorio de tu proyecto en GitHub.
 - Uso del JOptionPane.
-- Cuadro de dialogos 
+- Cuadro de dialogos.
+- Uso de la POO.
 - **Entre otras cosas mas.**
 
 #### ##### ## Algunos comandos en accion.
